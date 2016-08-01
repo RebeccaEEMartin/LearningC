@@ -1,5 +1,5 @@
 /*pg30 ex1-16 - make it print the length of the max line even if the length > MAXLINE and it can't
-properly print the array */
+properly print the array - NOTE the size of MAXLINE has been reduced to check the program works*/
 
 #include <stdio.h>
 #define MAXLINE 10        /* maximum input line size */
